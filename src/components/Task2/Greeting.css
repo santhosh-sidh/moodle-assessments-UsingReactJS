@@ -1,0 +1,18 @@
+.maindiv{
+    background-image:url("D:\moodle_ass\src\components\Task2\congrats-card-bg.png");
+    height: 100vh;
+}
+.greet{
+    text-align: center;
+    
+}
+.backGround{
+    text-align: center;
+    background-color: aqua;
+    width: 400px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.img1{
+    border-radius: 50px;
+}

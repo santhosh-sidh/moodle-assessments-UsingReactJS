@@ -1,0 +1,32 @@
+.maindiv2{
+    background-image: url("night-sky-260nw-375905686.webp");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.maind{
+    padding-top: 280px;
+}
+.btn1{
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+   height: 50px;
+}
+.btn2{
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    margin-left:100px;
+    height: 50px;
+
+}
+.btn3{
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    margin-left:100px ;
+    height: 50px;
+
+}

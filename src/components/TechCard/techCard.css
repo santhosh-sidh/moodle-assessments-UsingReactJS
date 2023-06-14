@@ -1,0 +1,24 @@
+.TechMain{
+    background-color: aquamarine;
+}
+.TechCards1{
+    border-top: 7px solid red;
+    border-radius: 10px;
+}
+.TechCards2{
+    border-top: 7px solid yellowgreen;
+    border-radius: 10px;
+}
+.TechCards3{
+    border-top: 7px solid orangered;
+    border-radius: 10px;
+}
+.TechCards4{
+    border-top: 7px solid blue;
+    border-radius: 10px;
+}
+.TechImg{
+    display: flex;
+    float: right;
+    
+}
